@@ -1,3 +1,11 @@
+div.one_third {
+  height: 139.75px
+}
+
+p.excerpt {
+  font-size: .8125em;
+}
+
 h2#tagline {
   border-bottom: solid 2px gray;
 }
